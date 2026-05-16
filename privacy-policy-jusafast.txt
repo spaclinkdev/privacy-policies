@@ -1,0 +1,34 @@
+PRIVACY POLICY FOR JUSA FAST
+Last updated: May 16, 2026
+
+1. Introduction
+Welcome to Jusa Fast ("we", "our", or "us"). This privacy policy explains how we collect, use, and protect your information when you use our mobile application Jusa Fast.
+
+2. Information We Collect
+Jusa Fast is a simple automation app. We collect only:
+- Camera access (photos): Used to take photos within the app for automation purposes.
+- Phone number: Required for payment verification purposes only.
+
+3. How We Use Your Information
+- Camera photos: Processed locally on your device. They are not uploaded to our servers or shared with anyone.
+- Phone number: Used solely to verify your identity during payment transactions. We do not use your number for marketing or any other purpose.
+
+4. Data Sharing with Third Parties
+We DO NOT share, sell, rent, or trade any of your personal data with third parties. Your camera photos remain private on your device. Your phone number is stored securely and never shared.
+
+5. Data Storage and Security
+Your phone number is stored encrypted on our secure servers. Camera images never leave your device unless you manually choose to save or share them. We follow industry standards to protect your data.
+
+6. Your Rights
+You can revoke camera permission anytime via your device settings. You may request deletion of your phone number from our records by emailing spaclinkdev@gmail.com.
+
+7. Children's Privacy
+Jusa Fast is not for users under 13 years old. We do not knowingly collect personal information from children.
+
+8. Changes to This Policy
+We will update this policy as needed. The "Last updated" date will change accordingly. Continued use of the app means you accept any updates.
+
+9. Contact Us
+For privacy questions or data requests:
+Email: spaclinkdev@gmail.com
+WhatsApp: 263777337092
